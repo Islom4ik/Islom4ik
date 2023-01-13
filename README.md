@@ -7,7 +7,7 @@
 ### 👤 **ABOUT**:
 `My real name is Islom. I am web developer. (HTML | CSS | JS | БЭМ | PHP) I also now couple of backend languages such as C++ | Node.JS | Java. Now i am working on machine learning i.e. developing neural networks. In addition i am developer of telegram bots, you can find my projects in my repos.`
 
-<img src="https://github.com/Islom4ik/Islom4ik/blob/main/assets/programer.png" min-width="630px" max-width="630px" width="630px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Islom4ik/Islom4ik/blob/main/assets/programer.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
 
 ### ⌨️ **LANGUAGES**:
 ![NODE.JS](https://img.shields.io/badge/-Node.JS-3ca1f?style=flat&logo=node.js&logoColor=171717) ![C++](https://img.shields.io/badge/-C++-6d24ff?style=flat&logo=C&logoColor=2469ff)
