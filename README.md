@@ -17,7 +17,5 @@
 ![JS](https://img.shields.io/badge/-JavaScript-e0d914?style=flat&logo=JavaScript&logoColor=171717) ![JS](https://img.shields.io/badge/-Java-e60000?style=flat&logo=oracle&logoColor=171717) 
 
 ### ⌨️ **LINKS**:
-### **My Site:**
 ![SITE](https://img.shields.io/badge/-Coming_Soon-001114?style=flat&logo=V&logoColor=006be6)
-### **Telegram:**
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-001114?style=flat&logo=telegram&logoColor=006be6)](https://t.me/OG_DIMES)
